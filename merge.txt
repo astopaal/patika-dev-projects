@@ -17,3 +17,6 @@
 [11,16,21]        [8,12,22]
 
 [8,11,12,16,21,22]
+
+
+Zaman karmaşıklığı fonksiyonu T(N) =  n(log n + 1) olacaktır. Buna göre worst case zaman karmaşıklığı O(nlogn) olur.
