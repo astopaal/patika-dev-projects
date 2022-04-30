@@ -1,0 +1,6 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+
+root 6dır.
+
+6nın solunda 0 bulunur. 0ın sağında 3 bulunur. 6nın sağında 8 bulunur. 3ün solunda 1 bulunur. 3ün sağında 5 bulunur. 8in solunda 7 bulunur. 8in sağında 9 bulunur. 5in solunda 4 bulunur. 4ün solunda 2 bulunur.
